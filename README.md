@@ -17,3 +17,16 @@ cd project name
 > java -jar build/libs/gradle-strt.jar en
 
 > ./gradlew test
+
+
+##Groovy concepts  build commands
+
+> ./gradlew clean
+
+> ./gradlew assemble
+
+> ./gradlew clean
+
+> ./gradlew check
+
+> ./gradlew build

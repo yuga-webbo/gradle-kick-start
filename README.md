@@ -14,4 +14,6 @@ cd project name
 
 > ./gradlew jar
 
+> java -jar build/libs/gradle-strt.jar en
+
 > ./gradlew test
